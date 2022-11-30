@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node bin/cli.js"
   },
-  "type":"module",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/comp426-2022-fall/a03-jonnyhuang18.git"
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/comp426-2022-fall/a03-jonnyhuang18#readme",
   "bin": {
     "roll-dice": "./bin/cli.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.7"
   }
 }
