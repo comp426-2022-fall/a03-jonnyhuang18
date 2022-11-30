@@ -25,6 +25,7 @@
     "roll-dice": "./bin/cli.js"
   },
   "dependencies": {
-    "minimist": "^1.2.7"
+    "minimist": "^1.2.7",
+    "roll": "^1.3.1"
   }
 }
